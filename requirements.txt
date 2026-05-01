@@ -1,0 +1,8 @@
+streamlit==1.56.0
+langchain-core
+langchain-anthropic
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+python-dotenv
+anthropic
